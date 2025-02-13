@@ -29,9 +29,9 @@ class Database extends Config
     public array $default = [
         'DSN'          => '',
         'hostname'     => 'localhost',
-        'username'     => 'root',
-        'password'     => '',
-        'database'     => 'savvy_SIT',
+        'username'     => 'sitsolutionsco_savvywater',
+        'password'     => 'baC@jY$uV;Rl',
+        'database'     => 'sitsolutionsco_savvywater',
         'DBDriver'     => 'MySQLi',
         'DBPrefix'     => '',
         'pConnect'     => false,
